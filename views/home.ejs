@@ -1,0 +1,8 @@
+<%-include('partials/header');-%>
+<h1>HOME</h1>
+<p><%=fronttext%></p>
+<%for(let i=0;i<AllPost.length;i++){%>
+  <h1><%=AllPost[i].title%></h1>
+  <p><%=AllPost[i].post.substring(0,5)+"......"%><a href="/posts/<%=AllPost[i].title%>">Read more</a></p>
+ <%}%>
+<%-include('partials/footer');-%>
