@@ -16,7 +16,7 @@ This is the Home Screen
 
 This is how we can compose!
 
-[WhatsApp Image 2022-07-24 at 8 56 14 PM](https://user-images.githubusercontent.com/99130267/180654611-aed4bf0b-dcc6-4385-a1b8-aa9ad4ec8fa1.jpeg)
+![WhatsApp Image 2022-07-24 at 8 56 14 PM](https://user-images.githubusercontent.com/99130267/180654611-aed4bf0b-dcc6-4385-a1b8-aa9ad4ec8fa1.jpeg)
 
 After Composing the home screen looks like this
 
